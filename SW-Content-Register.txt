@@ -1,0 +1,12 @@
+Release Name:        dm-wifi-set-up-ping
+Release Version:     1.0
+Outgoing License:    LA_OPT_Online Code Hosting NXP_Software_License - v1.3 December 2024
+License in File:     License.txt
+Description:         This is a demo example of Wi-Fi connect and ping on RW612.
+Release location:    https://github.com/nxp-appcodehub/dm-wifi-set-up-ping
+Origin:              NXP (BSD-3-clause)
+                     NXP (MIT)
+                     ARM CMSIS V6.1.0 (Apache-2.0) - https://github.com/ARM-software/CMSIS_6/releases/tag/v6.1.0
+                     FreeRTOS V11.0.1 (MIT) - https://github.com/FreeRTOS
+                     lwIP 2024-02-19, (BSD-3-Clause) - http://savannah.nongnu.org/projects/lwip
+                     Wi-Fi module Tx power limits v1.0.0 Murata Manufacturing Co., LTD (BSD-3-clause)
