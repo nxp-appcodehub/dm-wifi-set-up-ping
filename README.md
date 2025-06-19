@@ -78,18 +78,10 @@ This is a demo example of Wi-Fi scan, connect and ping with nearby access point 
 
 ![](images/ping.jpg)
 
-## 5. FAQs<a name="step5"></a>
-*Include FAQs here if appropriate. If there are none, then remove this section.*
-
-## 6. Support<a name="step6"></a>
-*Provide URLs for help here.*
-
-*For training content you would usually refer the reader to the training workbook here.*
-
 #### Project Metadata
 
 <!----- Boards ----->
-[![Board badge](https://img.shields.io/badge/Board-MIMXRT1170&ndash;EVKB-blue)]()
+[![Board badge](https://img.shields.io/badge/Board-RW612BGA-blue)]()
 
 <!----- Categories ----->
 [![Category badge](https://img.shields.io/badge/Category-RTOS-yellowgreen)](https://mcuxpresso.nxp.com/appcodehub?category=rtos)
