@@ -21,7 +21,7 @@ This is a demo example of Wi-Fi scan, connect and ping with nearby access point 
 ## 1. Software<a name="step1"></a>
 - [MCUXpresso 24.12.0 or newer.](https://nxp.com/mcuxpresso)
 - [MCUXpresso for VScode 1.5.61 or newer](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/lpc800-arm-cortex-m0-plus-/mcuxpresso-for-visual-studio-code:MCUXPRESSO-VSC?cid=wechat_iot_303216)
-- [SDK for RW612BGA.](https://mcuxpresso.nxp.com/en/select)
+- [SDK version 25.03.00 for RW612BGA.](https://mcuxpresso.nxp.com/en/select)
 
 ## 2. Hardware<a name="step2"></a>
 - [RW612BGA](https://www.nxp.com/products/wireless-connectivity/wi-fi-plus-bluetooth-plus-802-15-4/wireless-mcu-with-integrated-tri-radio-1x1-wi-fi-6-plus-bluetooth-low-energy-5-4-802-15-4:RW612)
